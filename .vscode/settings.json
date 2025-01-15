@@ -1,0 +1,26 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "d:\\ESP-IDF\\esp\\esp-idf\\v5.4\\esp-idf",
+    "idf.toolsPathWin": "D:\\ESP-IDF\\.espressif",
+    "idf.openOcdConfigs": [
+        "board/esp32c2-ftdi.cfg"
+    ],
+    "idf.portWin": "COM6",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "event_groups.h": "c",
+        "gpio.h": "c",
+        "charconv": "c",
+        "optional": "c",
+        "format": "c",
+        "system_error": "c",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "cstring": "cpp",
+        "variant": "cpp",
+        "*.inc": "cpp"
+    }
+}
